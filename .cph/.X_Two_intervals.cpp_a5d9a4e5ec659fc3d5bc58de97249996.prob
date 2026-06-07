@@ -1,0 +1,1 @@
+{"name":"Local: X_Two_intervals","url":"d:\\DSA(phitron)\\Codeforces-Sheet-1\\X_Two_intervals.cpp","tests":[{"id":1744040866049,"input":"1 15 5 27\n","output":"5 15"},{"id":1744040872497,"input":"2 5 6 12\n","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA(phitron)\\Codeforces-Sheet-1\\X_Two_intervals.cpp","group":"local","local":true}
